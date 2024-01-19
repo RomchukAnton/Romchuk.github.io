@@ -39,7 +39,7 @@
   }
 
   .btn:hover, .nav ul li:hover {
-    background: #117bff;
+    background: #074a9c;
     cursor: pointer; 
     transition: background .5s;  
   }
