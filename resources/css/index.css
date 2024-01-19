@@ -26,11 +26,13 @@
     list-style: none;
     margin: 0 auto; 
     padding: 0;
+    display: table;
+    width: 100%;
   }
   
   .nav ul li {
     color: #fff;
-    display: inline-block; 
+    display: table-cell; 
     height: 80px;
     line-height: 80px; 
     list-style: none;
@@ -58,4 +60,12 @@
     height: 80px; 
     line-height: 80px;
     margin: 0;  
+  }
+
+
+  #construction {
+    width: 400px;
+    height: 300px;
+    position:relative;
+    right:28px;
   }
